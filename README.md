@@ -1,18 +1,17 @@
 # Estilo de Login y Registro
 
-Este proyecto es una página web que presenta un sistema de inicio de sesión (login) y registro (register) estéticamente diseñado. La interfaz está construida con HTML, CSS y JavaScript, ofreciendo una experiencia de usuario atractiva y funcional.
+Este proyecto es una página web que presenta un sistema de inicio de sesión y registro estéticamente diseñado. La interfaz está construida con HTML, CSS y JavaScript, ofreciendo una experiencia de usuario atractiva y funcional.
 
 ## Características
 
 - **Interfaz moderna y estética**: Diseño responsivo y atractivo utilizando HTML y CSS.
-- **Validación de formularios**: Implementación de validación básica mediante JavaScript.
-- **Acceso a funciones de inicio de sesión y registro**: Permite a los usuarios registrarse y acceder a su cuenta.
+- **Animaciones estéticas**: Uso de animaciones básicas mediante JavaScript.
 
 ## Tecnologías utilizadas
 
 - **HTML**: Estructura básica de la página.
 - **CSS**: Estilos visuales para hacer la interfaz atractiva.
-- **JavaScript**: Interactividad y validación de formularios.
+- **JavaScript**: Magia absoluta.
 
 ## Instalación
 
